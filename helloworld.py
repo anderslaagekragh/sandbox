@@ -1,5 +1,6 @@
 a = 7
 b = 8
+c = 9
 msg = 'hello world'
 
 print(str(a+b))
